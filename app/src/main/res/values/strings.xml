@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGithubUserApp</string>
+    <string name="search">Search</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="save_favorite">Save Favorite?</string>
+    <string name="favorite_saved">User berhasil ditambahkan ke favorit</string>
+    <string name="favorite_deleted">User berhasil dihapus dari favorit</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="action_bar_title">Detail Github User</string>
+    <string name="photo_desc">Github User Photo</string>
+</resources>
